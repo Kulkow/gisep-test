@@ -1,0 +1,6 @@
+Php-8.2
+https://windows.php.net/download/
+VS16 x64 Thread Safe (2024-Sep-25 08:54:58) - по-моему этот будет совместим - у себя его тестировал
+
+
+https://curl.se/windows/ - вроде как должен быть из коробки
