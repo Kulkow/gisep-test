@@ -34,3 +34,7 @@ Process finished with exit code 0
 **Проверка  curl**
 H:\php\8.2\php.exe -c H:\php\8.2\php-my.ini-development H:\php\soap-example\test_curl.php
 {"test":"OK"}
+
+**Установить Composer**
+H:\php-composer\
+https://getcomposer.org/download/
